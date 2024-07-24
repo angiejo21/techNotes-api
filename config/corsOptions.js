@@ -1,4 +1,3 @@
-const { credential } = require("firebase-admin");
 const allowedOrigins = require("./allowedOrigins");
 
 const corsOptions = {
